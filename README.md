@@ -1,4 +1,6 @@
-NOTE: This project is currently a Work in Progress. The README file is entirely fictional right now. ¯\_(ツ)_/¯
+# IMPORTANT
+
+**This service has been ported to the official WebdriverIO v5 repo. Please see https://github.com/webdriverio/v5/tree/master/packages/wdio-applitools-service for future usage**
 
 # wdio-applitools-service
 
