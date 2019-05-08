@@ -1,6 +1,6 @@
-# IMPORTANT
+# THIS IS IMPORTANT
 
-**This service has been ported to the official WebdriverIO v5 repo. Please see https://github.com/webdriverio/v5/tree/master/packages/wdio-applitools-service for future usage**
+**This service has been ported to the official WebdriverIO v5 repo. Please see https://github.com/webdriverio/webdriverio/tree/master/packages/wdio-applitools-service for future usage**
 
 # wdio-applitools-service
 
